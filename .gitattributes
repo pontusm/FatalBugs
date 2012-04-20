@@ -1,0 +1,7 @@
+*.ams		-text
+*.asm		text
+*.bat		text
+*.diz		text
+*.inc		text
+*.nfo		text
+*.obj		-text
