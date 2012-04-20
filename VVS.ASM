@@ -3549,6 +3549,3 @@ Bitmap  label
 ;        db      0,0,0           ; 3 bytes for gouraud colour
 ;        include Bitmap.inc
         include amber.inc
-
-
-

@@ -317,4 +317,3 @@ TempScr3 dd     0
 ; Some flags
 NoClear db      0
 
-
