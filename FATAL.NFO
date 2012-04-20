@@ -1,0 +1,167 @@
+                        Ûİ
+                        ÛÛ                        ÜÜ
+                        ŞÛ                       ŞÛÛÛ
+             ÜÜÜÜ  Ü  Ü  Û     ÜÛÛÜ  ÜßÛÜ    ÜÜÜÜ ßÛÛİ           ÜÜÜÜ
+           ÜÛÛß ßİ  İÛÛ  Şİ  Ü  ßßÛÛß   ÛÛ ÜÛÛß ßİ ŞÛÛßÜ ÜßÜ   ÜÛÛß ßİ
+          ŞÛÛİ Üß   ŞÛß   İ ÛÛİ    Ûİ     ŞÛÛİ Üß   Û   Ûİ  İ ŞÛÛİ Üß
+           ÛÛİ     Üİİ  Üßİßß      Ûİ      ÛÛİ      Ş   Û   İ  ÛÛİ
+            ßÛÜÜßß ÛİŞ    İ         İ       ßÛÜÜßß  İ      Ş    ßÛÜÜßß
+
+
+                                    presents
+
+
+                êêê êêê   êê   êêê  êê      êê    êê êê  êêê   êê
+               êê     êê êêêê    êê êê      êê    êê êê êê    êê
+               êêê  êêêê  êê   êêêê êê      êêêê  êê êê êê êê  êê
+               êê  êê êê  êê  êê êê êê      êê êê êê êê êê êê ê êê
+               êê   êêêê  êê   êêêê êê      êêêê   êêê   êêê  êêêê
+               ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+
+
+                           - Final Release Version -
+
+
+
+                                  A 64Kb Intro
+
+                                  released at
+
+                                   Icing '95
+
+                              15th-18th June 1995
+
+
+
+
+                  úúúù--ÄÄÄÄÄÄÍÄ[ Krediter ]ÄÄÍÍÍÄÄÄÄÄ---ùúúú
+
+                        Coding...............Vicious and Baldric
+                      Graphics...............Tap
+                         Music...............Vicious
+
+
+
+   úúúù--ÄÄÄÄÄÄÍÄ[ Smurfiga members och Beh”vlig H†rdvara ]ÄÄÍÍÍÄÄÄÄÄ---ùúúú
+
+
+ Requirements:                                   The complete member list:
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿                          ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ * 486 processor   ³                          ³ Baldric.....Coder,Organizer  ³
+³ * Math coproc     ³                          ³ Vicious.....Coder            ³
+³ * VGA             ³                          ³ Zyric.......Coder            ³
+³ * GUS             ³                          ³ Lev.........Coder            ³
+³ * Nice mood       ³                          ³ ToneDeaf....Musician         ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ                          ³ Gibson......Musician         ³
+                                               ³ MPS.........Musician         ³
+                                               ³ RubberDuck..Graphician       ³
+                                               ³ TAP.........Graphician       ³
+                                               ³ Mikie.......Graphician       ³
+                                               ³ Crack.......Sysop            ³
+                                               ³ Ivanhoe.....Sysop            ³
+                                               ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+      úúúù--ÄÄÄÄÄÄÍÄ[ Intressant l„sning f”r den glade ]ÄÄÍÍÍÄÄÄÄÄ---ùúúú
+
+This intro was put together in a rush, to compete in a small swedish computer
+conference called Icing'95. When the partyinfo was released, we really didn't
+think of going there, but about one week before it was held we changed our
+minds. And naturally, we felt that it was a pity not to release anything, so we
+began working on this intro. It was a hectic week of coding, and when we came
+to the party we just had a bunch of unfinished routines with us.
+  The compo version of the intro really sucked, because we ran out of time.
+This final version includes a rotate-zoomer and a texturemapped torus that had
+to be left out in the previous version due to bugs.
+  Also notice that all vectors are displayed using Vicious new system, that is
+only in a very early beta-stadium! It will feature more sophisticated stuff
+later, along with faster processing. It is really slow now, but as we said:
+EARLY BETA! That is also why this intro requires a math coprocessor...We simply
+didn't want to implement support for squareroots in normal code that is used
+for the multiple spotlights calculations. Sorry!
+
+And here is a translation for those of you who can't read English:
+
+Och h„r kommer en ”vers„ttning f”r de som inte kan engelska, hmrhrhrnfffhh...
+
+Det h„r introt sattes ihop i en husvagn, f”r att det skulle t„vla i Strykj„rns
+SM i glykolf”rt„ring, Icing '95. N„r vi fick veta att det h„r evenemanget
+skulle „ga plats, b”rjade vi joddla en gammal ”sterrikisk nationalhymn, som den
+store Helmer von Euforius skrev i sin tidiga barndom. Eftersom v†ra grannar
+ogillade v†r s†ng klagade de hos hyresv„rden s† att vi blev utkastade, och fick
+bo i en trasig Mazda 323 i tv† veckor, och driva v†ra datorer med bilbatteriet.
+Hur som helst, efter att vi bytt till sommard„ck kunde vi „nd† putta bilen till
+festen och forts„tta avslutningen under tak och tidspress.
+  N„r vi visade v†ra „rrade ansikten mot den annalkande d”da linjen, med de
+blodt”rstiga insekterna sv„rmande runt v†ra huvuden, kunde vi inte inkludera
+allt sm†tt och gott som hade givit oss en mer angen„m upplevelse. Vi sl„ppte
+dock l”s den sabeltandade tigern Ola i n†gra veckor f”r att skr„mma parasiterna
+ur led, och lyckades pressa ur oss ett alldeles rykande strykj„rn, som sedan
+den vith†riga gorillan Valdemars tid aldrig visat upp en s† banbrytande
+uppfinning.
+  Tyv„rr „r inneh†ller detta intro en beta-gr„s version av ett vektorsystem som
+ursprunglingen gr„vdes upp i en termitstack utanf”r Djakarta, och d„rf”r
+inneh”ll en hel del insekter. Vi rekommenderar att ni minst har en dator f”r
+att kunna l„sa den h„r textfilen, annars kan ni best„lla en utskrift och
+sk„rmdumpar ur introt som ni sj„lva kan s„tta ihop till en animation och titta
+p† under vilket datorsystem som helst. Vi „r mest kompatibla med allt, men vi
+skriver ocks† de lustigaste sm† textfilerna som vi n†nsin gjort, beroende p†
+att vi „r s† utmattade efter att vi fick byta f”rdelart„ndstiften p† v†ra
+motordrivna X532b-strykj„rn, vilket inte g”rs i en handv„ndning! Man m†ste i
+alla fall minst v„nda p† strykj„rnet ocks†, och det var som tur var inte
+Loket/Bingolotto som arrangerade det hela, utan Liket/Goto10, som har sv†rt att
+g”ra bugfria basicprogram.
+  Men allt h”r ju hemma i en annan version, n„mligen den bugfria virtual
+reality versionen av Sug Min Polkagris II (The Sequel), som vi inte „nnu har
+h”rt talas om annat „n i de interna kanalerna i v†rt sofistikerade
+kommunikationscentrum.
+
+
+
+         úúúù--ÄÄÄÄÄÄÍÄ[ Fr†n oss alla till er alla ]ÄÄÍÍÍÄÄÄÄÄ---ùúúú
+
+Greetings goes to some people we met at the party, or in fact Phenomena,
+Omicron, Goto10, Candela, Positron, Bonzai, Mistery, Proxima and the rest.
+
+         Also greetings to everybody else not attending to this party!
+
+
+              úúúù--ÄÄÄÄÄÄÍÄ[ Tidigare missfall ]ÄÄÍÍÍÄÄÄÄÄ---ùúúú
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ Wargasm      ³ WARGASM.*   ³ Our first demo... What can you expect?         ³
+³ Pixtro       ³ PIXTRO.*    ³ Lousy intro about a program never released.    ³
+³ Infro        ³ INFRO.*     ³ Info about the SineCreator.                    ³
+³ BBStro       ³ BBSTRO.*    ³ Simple BBS Intro                               ³
+³ Techno Holic ³ T-HOLIC.*   ³ Our first REAL demo. This is almost good :-)   ³
+³ Birthro      ³ BIRTHRO2.*  ³ Our first try to make some design              ³
+³ EP           ³ EP12.*      ³ An awfully shitty modplayer                    ³
+³ Sine Creator ³ SC10F.*     ³ The ultimate sinecreator.                      ³
+³ Lunatic      ³ LUNATIC.*   ³ The demo competing at TCC'93                   ³
+³ Report       ³ REPORT.*    ³ The Party report from TCC'93                   ³
+³ Vibes        ³ VIBES.*     ³ Our musicdisk with 12 tunes!                   ³
+³ Tomtesaft    ³ TOMTE.*     ³ The 4KB intro from ASM'94                      ³
+³ Tracker      ³ ETRCK06.*   ³ Our 32 Channel GUS tracker (it has no name yet)³
+³ Unreal-BBStro³ UNR_BBS.*   ³ Nice BBS Intro for Unreal                      ³
+³ ETracker     ³ ETRCK07.*   ³ New version of the Extreme Tracker             ³
+³ Meth-BBStro  ³ METH_BBS.*  ³ BBS Intro for Methadone                        ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+How to contact us:
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ Patrik Oscarsson                                   ³
+³ Hermansv„gen 44                                    ³
+³ S-554 53 J”nk”ping                                 ³
+³ Sweden                                             ³
+³                                                    ³
+³ Voice: +46(0)36-711593 (Between 17:00 - 22:00 CET) ³
+³                                                    ³
+³ E-Mail: da94ospa@hj.se         (Baldric)           ³
+³         vicious@cryonics.ct.se (Vicious)           ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+                           See you in the next prod!
+
+
